@@ -1,25 +1,18 @@
-# Data Analyst
+# Personal Portfolio
 
-### Education
-asdf
+## Sections 
+- About\
+- Education\
+- Experience\
+- Demo Projects\
+- Work Projects\
+- Resume\
+- Contact Info
 
-### Work Experience
-asdf
-- asdf
-- asdf
-- asdf
-asdf
-- asdf
-- asdf
-- asdf
+## Tools Used 
+<b>GitHub Pages</b>
 
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Projects
-asdf
-- asdf
-- asdf
-- asdf
-asdf
-- asdf
-- asdf
-- asdf
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
