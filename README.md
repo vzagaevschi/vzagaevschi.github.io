@@ -1,18 +1,17 @@
-# Personal Portfolio
+# Personal Portfolio Site
 
 ## Sections 
-- About\
-- Education\
-- Experience\
-- Demo Projects\
-- Work Projects\
-- Resume\
-- Contact Info
+- Home
+- About
+- Education
+- Experience
+- Portfolio
+- Resume
+- Contact
 
-## Tools Used 
-<b>GitHub Pages</b>
+## Tech Used 
+<b>GitHub Pages, Bootstrap, HTML</b>
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+## Credits
+- [Bootstrapmade](https://bootstrapmade.com) for providing the template.
