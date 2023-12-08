@@ -1,4 +1,14 @@
 .vscode
+
+# adds .vscode folder to ignored files
+.vscode/**/*
+
+# exclude these files from being ignored
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
 .idea
 
 *.psd
